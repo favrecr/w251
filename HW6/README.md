@@ -5,7 +5,7 @@ V100 is faster than P100
 V100 1 epoch 1M rows Runtime:  
 100% 1/1 [1:52:15<00:00, 6735.95s/it, avg_accuracy=0.952, avg_loss=0.121]  
 Validation 500K Runtime:  
-15 mins  
+100% 15625/15625 [15:42<00:00, 16.58it/s]  
 
 P100 1 epoch 1M rows runtime:  
 6hrs  
